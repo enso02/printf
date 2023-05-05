@@ -1,0 +1,8 @@
+# Ausschließen von .o Dateien
+*.o
+
+# Ausschließen von .i Dateien
+*.i
+
+Ausschließen von .s Dateien
+*.s
